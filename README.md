@@ -26,18 +26,14 @@ The exercise involves creating a basic UI with required fields for username and 
 
 - **Password Field Display:** The password field is modified to display "dots" instead of actual characters using VisualTransformation. 
 
-### Running the App
+## Running the App
 
-Ensure you have the required dependencies and tools installed to run Jetpack Compose applications. You can test the app on an emulator or a real device to ensure that the UI is visible as expected.
-
-## Getting Started
-
-Follow these steps to get the project up and running:
+Follow these steps to get the project up and running. Ensure you have the required dependencies and tools installed to run Jetpack Compose applications.
 
 1. Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/your-username/login-form-app.git
+git clone https://github.com/t2hale00/LoginExercise.git
 ```
 
 2. Open the project in Android Studio.
